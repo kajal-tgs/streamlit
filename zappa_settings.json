@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "app_function": "app.app",
+        "profile_name": "tiq-dev-deploy",
+        "project_name": "tiq-flask-parser-1",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-2zj72z765",
+        "aws_region": "ap-south-1",
+        "lambda_description":"TalentIQ Flask Parser Service",
+        "apigateway_description":"TalentIQ Flask Parser Service",
+        "keep_warm": false,
+        "memory_size": 1024,
+        "timeout_seconds": 90          
+    }
+}

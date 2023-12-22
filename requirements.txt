@@ -1,0 +1,12 @@
+flask
+zappa
+langchain
+openai
+beautifulsoup4
+python-dotenv
+requests
+pymongo
+cohere
+PyPDF2
+boto3
+google-generativeai
